@@ -13,3 +13,6 @@
 #### - public ip주소로 접근 : pem 파일을 이용하여 접근
 #### - AWS에 접근하여 run.py파일 생성
 #### - public ip주소로 실행 웹페이지 확인
+
+
+<img src="https://github.com/MinseongS/AWS/blob/main/image/helloworld.PNG">
