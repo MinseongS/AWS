@@ -4,7 +4,8 @@
 
 ### 2. 접근할 포트 설정
 #### - ssh default port : 22
-#### - 추가로 9000번 포트 추가
+#### - 9000번 포트 추가
+#### - 9001번 포트 추가
 
 ### 3. MobaXterm으로 접근
 #### - public ip주소로 SSH 접근 : pem 파일을 이용하여 접근
@@ -16,3 +17,4 @@
 
 
 <img src="https://github.com/MinseongS/AWS/blob/main/image/helloworld.PNG">
+<img src="https://github.com/MinseongS/AWS/blob/main/image/h.PNG">
