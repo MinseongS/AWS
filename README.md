@@ -17,4 +17,4 @@
 
 
 <img src="https://github.com/MinseongS/AWS/blob/main/image/helloworld.PNG">
-<img src="https://github.com/MinseongS/AWS/blob/main/image/h.PNG">
+<img src="https://github.com/MinseongS/AWS/blob/main/image/hi.PNG">
